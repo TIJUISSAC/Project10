@@ -1,0 +1,25 @@
+{
+  "name": "project10",
+  "version": "1.0.0",
+  "description": "It is about Miron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIJUISSAC/Project10.git"
+  },
+  "author": "Tiju Issac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TIJUISSAC/Project10/issues"
+  },
+  "homepage": "https://github.com/TIJUISSAC/Project10#readme",
+  "dependencies": {
+    "4": "0.0.0",
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}
