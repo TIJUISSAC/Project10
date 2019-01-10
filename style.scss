@@ -4,8 +4,13 @@ body {
 }
 
 .bg-hero {
-    background: url('assets/image/friends.jpg') center center no-repeat;
+    background: url('https://collegeinfogeek.com/wp-content/uploads/2017/08/how-to-make-friends-throughout-college-header.jpg') center center no-repeat;
     background-size: cover;
     height: 80vh;
+
+     h1 {
+        color: white;
+        font-size: 48px;
+    }
 
 }
