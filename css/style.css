@@ -21,5 +21,5 @@ body {
 
 nav {
   height: 100px; }
-  nav .bg-reddark {
+  nav .navbar .bg-reddark {
     background-color: #691616 !important; }
