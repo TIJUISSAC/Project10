@@ -3,10 +3,10 @@ body {
     padding: 0;
 }
 $bg-reddark: #691616 !important;
-$text-white: fff;
+$text-white: #fff;
 
 .bg-hero {
-    background: url('https://collegeinfogeek.com/wp-content/uploads/2017/08/how-to-make-friends-throughout-college-header.jpg') center center no-repeat;
+    background: url('https://www.volocopter.com/assets/images/stage/home_large.jpg') no-repeat;
     background-size: cover;
     height: 80vh;
 
@@ -31,8 +31,25 @@ $text-white: fff;
 
 nav {
 
-    height: 100px;
-    .navbar .bg-reddark {
+    height: auto;
+     &bg-reddark {
         background-color: $bg-reddark;
+    }
+
+    a {
+        font-size: 24px;
+        padding: 25px;
+        color: $text-white !important;
+        text-transform: capitalize;
+        margin-right: 15px;
+
+    }
+
+    span .textbrand {
+        a {
+        font-size: 24px;
+        font-weight: 700;
+        color: $text-white;
+        }
     }
 }
